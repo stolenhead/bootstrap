@@ -1,0 +1,55 @@
+
+.back{
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-position: 50% 30%;
+	background-size: cover;
+}
+.hover{
+	text-decoration: none;
+	padding: 3%
+}
+.divback{
+	padding: 13% 20% 0% 20%;
+}
+.divback2{
+	padding: 9% 20% 9% 20%;
+}
+.center{
+   padding: 35%;
+   padding-top: 9%;
+}
+.relleno{
+	background-color: #F05F40;
+	color: #FADCD5;
+	border-radius: 20%;
+}
+.white{
+	color: white;
+}
+.orange{
+	background-color: #F05F40;
+}
+.caja{
+	height: auto;
+	color: #F05F40;
+	text-align: center;
+	padding:2%;
+}
+.caja h3 ,.caja p {
+	color: black;
+}
+.img{
+	width:100%;
+	}
+.im{
+  padding: 0%;
+	}
+.guion{
+	padding-bottom: 1%;
+	background-color: #F05F40;
+	width: 7%;
+}
+.negro{
+	background-color: black;
+}
